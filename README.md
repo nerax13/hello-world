@@ -1,2 +1,1 @@
-# hello-world
-this is a tutorial repository
+this is the first line
